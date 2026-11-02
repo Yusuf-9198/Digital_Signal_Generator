@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Digital_Signal_Generator-main.iml" filepath="$PROJECT_DIR$/Digital_Signal_Generator-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data_Signal_Generator.iml" filepath="$PROJECT_DIR$/.idea/Data_Signal_Generator.iml" />
     </modules>
   </component>
 </project>
