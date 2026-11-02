@@ -45,6 +45,10 @@ public class SignalPlotter {
             String xLabel,
             String yLabel) {
 
+        if (GraphicsEnvironment.isHeadless()) {
+            return;
+        }
+
         SwingUtilities.invokeLater(() -> {
             JFrame frame = new JFrame(title);
             frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
