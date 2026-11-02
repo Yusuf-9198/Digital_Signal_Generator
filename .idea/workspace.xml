@@ -2,14 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d2c2043-b948-4ce4-8725-932d67bcdd34" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Singnal_Generator_Report_IT49_IT67_IT69.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Digital_Signal_Generator-main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/probe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/B8ZSKnownCasesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/DeltaModulationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/EncoderDecoderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/HDB3KnownCasesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main$LineCodingOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main$PipelineData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main$ScramblingOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/PCMModulationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ProjectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ScramblingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/SignalPlotterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/data/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/data/DigitalDataGenerator$GeneratorStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/data/DigitalDataGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/data/PalindromeFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/decoding/AMIDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/decoding/DifferentialManchesterDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/decoding/LineDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/decoding/ManchesterDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/decoding/NRZIDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/decoding/NRZLDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/encoding/AMIEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/encoding/DifferentialManchesterEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/encoding/LineEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/encoding/ManchesterEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/encoding/NRZIEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/encoding/NRZLEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/modulation/AnalogDemodulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/modulation/AnalogModulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/modulation/DeltaDemodulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/modulation/DeltaModulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/modulation/PCMDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/modulation/PCMEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scrambling/B8ZSDescrambler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scrambling/B8ZSScrambler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scrambling/Descrambler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scrambling/HDB3Descrambler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scrambling/HDB3Scrambler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scrambling/Scrambler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/visualization/SignalPlotter$PlotPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/visualization/SignalPlotter.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,22 +53,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Yusuf-9198"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yusuf-9198&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Yusuf-9198/Single-Cylce-RISC-v-Processor.git",
-    "accountId": "f458324e-abe4-4a8c-9061-5ba2ee5bbab7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yusuf-9198/Single-Cylce-RISC-v-Processor.git&quot;,
+    &quot;accountId&quot;: &quot;f458324e-abe4-4a8c-9061-5ba2ee5bbab7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LXSzTBHslv4I10I8wiRCBwwW7X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,6 +78,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
